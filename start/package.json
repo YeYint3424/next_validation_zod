@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "first": "^0.0.3",
     "next": "14.2.5",
     "react": "^18",
     "react-datepicker": "^7.3.0",
