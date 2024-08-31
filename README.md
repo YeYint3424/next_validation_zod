@@ -1,5 +1,6 @@
 # NextJS Form Validation Example with ZOD
-Check out the accompanying video on [Coding Money youtube channel](https://www.youtube.com/@CodingMoney) 
+Check out the accompanying video on [NextJS Form Validation Example with Zod](https://youtu.be/fYpvh9ccul0) on Coding Money youtube channel.
+
 # Zod Schema Examples
 
 Here are some common types and how you can define schemas for them:
