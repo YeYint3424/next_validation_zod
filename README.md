@@ -1,5 +1,5 @@
 # NextJS Form Validation Example with ZOD
-Check out the accompanying video on [NextJS Form Validation Example with Zod](https://youtu.be/fYpvh9ccul0) on Coding Money youtube channel.
+Check out the accompanying video [NextJS Form Validation Example with Zod](https://youtu.be/fYpvh9ccul0) on Coding Money youtube channel.
 
 # Zod Schema Examples
 
